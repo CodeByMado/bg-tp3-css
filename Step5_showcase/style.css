@@ -75,7 +75,8 @@ body{
    text-align: center;
    height: 400px;
    background-image: url("../img/showcase.jpg");
-   
+   background-color: white;
+
 }
 .home-cards,
 .ruban,
