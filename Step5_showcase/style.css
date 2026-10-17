@@ -102,6 +102,9 @@ body{
     padding: 10px 20px;
 
 }
+.showcase a:hover{
+    overflow: 1.5;
+}
 .home-cards,
 .ruban,
 .follow,
