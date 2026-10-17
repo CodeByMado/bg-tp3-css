@@ -75,7 +75,10 @@ body{
    text-align: center;
    height: 400px;
    background-image: url("../img/showcase.jpg");
-   background-color: white;
+   background-color: rgb(203, 196, 196);
+   background-position: center top;
+   background-size: 30%;
+   background-repeat: no-repeat;
 
 }
 .home-cards,
