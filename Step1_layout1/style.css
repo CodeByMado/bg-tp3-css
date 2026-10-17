@@ -1,11 +1,11 @@
-/* 1. Annuler marges et paddings de TOUS les éléments */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* 2. Le conteneur */
+
 .container {
   background: red;
   width: 90%;
@@ -15,7 +15,7 @@
   max-width: 1100px;
 }
 
-/* 3. Le footer */
+
 footer {
   background: red;
   width: 100%;
