@@ -107,6 +107,14 @@ body{
     opacity: 0.8;
 }
 
+.dark{
+    color: white;
+}
+
+.dark .btn{
+    background-color: (#f4f4f4);
+    color: (#333);
+}
 .home-cards,
 .ruban,
 .follow,
